@@ -37,3 +37,8 @@ O projeto utiliza principalmente Keras (com backend TensorFlow) para construir e
 *   **Diferentes Arquiteturas**: Experimentar outros modelos pré-treinados (ex: ResNet, Inception) disponíveis no Keras Applications.
 *   **Otimização de Hiperparâmetros**: Otimizar taxas de aprendizado, tamanhos de batch e outros hiperparâmetros para melhor desempenho.
 *   **Fine-tuning de mais camadas**: Explorar o fine-tuning de mais camadas do modelo pré-treinado se seu conjunto de dados for grande e diversificado o suficiente.
+
+## Feito por:
+
+* Rafael Costa Varela
+*  **email:**: rafael.varela2220@gmail.com
