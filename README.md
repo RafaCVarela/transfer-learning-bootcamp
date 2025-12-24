@@ -2,6 +2,8 @@
 
 Este projeto Google Colab demonstra o poder do Transfer Learning para tarefas de classificação de imagens. Ele aproveita modelos de deep learning pré-treinados para alcançar alta precisão, mesmo com conjuntos de dados relativamente pequenos.
 
+**link do projeto**: https://colab.research.google.com/drive/1cDsAp9ucVCpOUA5dkKPvKrUzfAKs1FCJ?usp=sharing
+
 ## Recursos:
 
 *   **Transfer Learning/Fine-tuning**: Aprenda a usar modelos pré-treinados (especificamente VGG16 neste exemplo) como extratores de características ou para fine-tuning em um novo conjunto de dados.
