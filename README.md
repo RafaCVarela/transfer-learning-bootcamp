@@ -41,4 +41,4 @@ O projeto utiliza principalmente Keras (com backend TensorFlow) para construir e
 ## Feito por:
 
 * Rafael Costa Varela
-*  **email:**: rafael.varela2220@gmail.com
+*  **email**: rafael.varela2220@gmail.com
